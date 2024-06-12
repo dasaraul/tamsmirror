@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "js-tokens": "^9.0.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
