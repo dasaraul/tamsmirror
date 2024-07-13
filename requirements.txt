@@ -42,6 +42,3 @@ tgcrypto
 uvloop
 xattr
 yt-dlp==2023.10.13
-ytmusicapi
-yarl
-youtubesearchpython
